@@ -1,9 +1,9 @@
 ## nhsengland-fork
 
-This Organization simply serves as a host for the forks of all public repos in the [nhsengland organization](https://github.com/nhsengland) and was created as a response to the following [blog post](https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/)
+This Organization simply serves as a host for the forks of all public non-empty repos in the [nhsengland organization](https://github.com/nhsengland) and was created as a response to the following [blog post](https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/)
 
 # What this is
-- A backup of all publicly available repos for the sake of the open source community in the hope that if the public repos become private then up to the last day of work will have been preserved in a fork network
+- A backup of all publicly available non-empty repos for the sake of the open source community in the hope that if the public repos become private then up to the last day of work will have been preserved in a fork network
 - Automated such that repos will have their forks synced once a day (midnight bst)
 
 # What this isn't
